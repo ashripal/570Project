@@ -1,0 +1,7 @@
+kagglehub
+kaggle
+datasets
+transformers
+torch
+torchvision
+opencv-python-headless
